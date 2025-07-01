@@ -1,12 +1,12 @@
 {
   "id": "czechtranslationargon",
   "title": "CzechTranslationArgon",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
-    "minimum": "12.331",
-    "verified": "12.331"
+    "minimum": "13.346",
+    "verified": "13.346"
   },
-  "description": "Český překlad Argon - Combat HUD 3.1.0.",
+  "description": "Český překlad Argon - Combat HUD 4.0.4.",
   "authors": [
     {
       "name": "Lethrendis",
@@ -21,7 +21,7 @@
       "path": "lang/cs.json"
     }
   ],
-  "url": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationArgon/Core12/module.json",
-  "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationArgon/Core12/module.json",
-  "download": "https://github.com/Lethrendis/CzechTranslationArgon/archive/refs/heads/Core12.zip"
+  "url": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationArgon/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationArgon/main/module.json",
+  "download": "https://github.com/Lethrendis/CzechTranslationArgon/archive/refs/heads/main.zip"
 }
