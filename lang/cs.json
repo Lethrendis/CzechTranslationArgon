@@ -2,8 +2,8 @@
 "enhancedcombathud": {
     "controls": {
       "toggle": {
-        "title": "Přepnout Argon Combat HUD",
-        "warning": "Argon Combat HUD: Není vybrán žádný token. Aby se HUD zapl, vyber nějaký token"
+        "title": "Přepnutí Argonu Combat HUDu",
+        "warning": "Argon Combat HUD: Není vybrán žádný token. Aby se HUD aktivoval, vyber nějaký token"
       }
     },
     "settings": {
@@ -242,7 +242,7 @@
 },
 "targetPicker": {
   "dialog": {
-    "title": "Výukový program pro výběr cílů",
+    "title": "Výukový program výběru cílů",
     "list": {
       "0": "Počet vybraných/požadovaných cílů bude sledovat kurzor",
       "1": "<span>Levým kliknutím</span>, nebo stisknutím <span>T</span> zaměř cíl",
