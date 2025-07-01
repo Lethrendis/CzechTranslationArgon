@@ -10,7 +10,7 @@ Tento modul poskytuje českou lokalizaci pro Argon - Combat HUD verze 3.1.2. Obs
 Pro instalaci modulu obvyklým upůsobem můžeš použít následující odkaz ve Foundry VTT:
 
 ```
-https://raw.githubusercontent.com/Lethrendis/CzechTranslationArgon/main/module.json
+https://raw.githubusercontent.com/Lethrendis/CzechTranslationArgon/Core12/module.json
 ```
 
 ## Autor
