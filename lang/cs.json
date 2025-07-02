@@ -2,7 +2,7 @@
 "enhancedcombathud": {
     "controls": {
       "toggle": {
-        "title": "Přepnutí Argonu Combat HUDu",
+        "title": "Přepínač Argonu Combat HUDu",
         "warning": "Argon Combat HUD: Není vybrán žádný token. Aby se HUD aktivoval, vyber nějaký token"
       }
     },
