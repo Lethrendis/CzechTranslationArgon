@@ -1,16 +1,16 @@
 
-# CzechArgonCombatHUD
+# CzechArgonCore
 
-Czech translation of Argon - Combat HUD version 4.0.4.
+Czech translation of Argon Core version 4.1.2
 
 ## Popis
-Tento modul poskytuje českou lokalizaci pro Argon - Combat HUD verze 4.0.4. Obsahuje překlady základních textů aplikace.
+Tento modul poskytuje českou lokalizaci pro Argon Core verze 4.1.2. Obsahuje překlady základních textů aplikace.
 
 ## Instalace
-Pro instalaci modulu obvyklým upůsobem můžeš použít následující odkaz ve Foundry VTT:
+Pro instalaci modulu obvyklým způsobem můžeš použít následující odkaz ve Foundry VTT:
 
 ```
-https://raw.githubusercontent.com/Lethrendis/CzechTranslationArgon/main/module.json
+https://raw.githubusercontent.com/Lethrendis/CzechTranslationArgonCore/main/module.json
 ```
 
 ## Autor
