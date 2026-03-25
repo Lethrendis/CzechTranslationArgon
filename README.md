@@ -1,5 +1,5 @@
 
-# CzechArgonCore
+# CzechArgon
 
 Czech translation of Argon Core version 4.1.2
 
@@ -10,7 +10,7 @@ Tento modul poskytuje českou lokalizaci pro Argon Core verze 4.1.2. Obsahuje p�
 Pro instalaci modulu obvyklým způsobem můžeš použít následující odkaz ve Foundry VTT:
 
 ```
-https://raw.githubusercontent.com/Lethrendis/CzechTranslationArgonCore/main/module.json
+https://raw.githubusercontent.com/Lethrendis/CzechTranslationArgon/main/module.json
 ```
 
 ## Autor
